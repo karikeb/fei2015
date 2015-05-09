@@ -1,6 +1,7 @@
 <?php
 
 return array(
-    'Manage'=>'Administrar'
+    'Manage'=>'Administrar',
+    'Create'=>'Crear',
     
 );
